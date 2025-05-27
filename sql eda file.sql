@@ -199,6 +199,8 @@ select *
 from company_rank
 where layoff_rank<=5;
 
+-- data file is in excel
+
 
 
 
